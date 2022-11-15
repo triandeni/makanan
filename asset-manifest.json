@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/makanan/static/css/main.9c88bdb2.css",
+    "main.css": "/makanan/static/css/main.ada07363.css",
     "main.js": "/makanan/static/js/main.61d4a004.js",
     "static/media/mie_ayam.jpg": "/makanan/static/media/mie_ayam.88f5dcfb92f70c7ee4a6.jpg",
     "index.html": "/makanan/index.html",
-    "main.9c88bdb2.css.map": "/makanan/static/css/main.9c88bdb2.css.map",
+    "main.ada07363.css.map": "/makanan/static/css/main.ada07363.css.map",
     "main.61d4a004.js.map": "/makanan/static/js/main.61d4a004.js.map"
   },
   "entrypoints": [
-    "static/css/main.9c88bdb2.css",
+    "static/css/main.ada07363.css",
     "static/js/main.61d4a004.js"
   ]
 }
